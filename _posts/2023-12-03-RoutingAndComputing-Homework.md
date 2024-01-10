@@ -25,6 +25,6 @@ Question 4: What is the term for a network with multiple paths to one destinatio
 
 Answer: The term is "redundancy."
 
-Question 5: Using the image above (not provided), is the network fault-tolerant?
+Question 5: Using the image above, is the network fault-tolerant?
 
-Answer: Without visualizing the image, it's not possible to determine the fault tolerance of the network.
+Answer: Yes because each one has multiple paths so even if one breaks, it will still work.
