@@ -190,7 +190,7 @@ Overall, Social Media has plenty harmful effects that go with the good. People d
 **Beneficial or Harmful Effect:**
 - **Harmful:** Risks mental health impacts, counteracting stress relief intentions.
 
-In conclusion, technological advancements have dual impacts, necessitating responsible development and usage for a balanced societal outcome.
+
 
 
 
